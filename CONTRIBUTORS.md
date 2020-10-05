@@ -90,7 +90,7 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
- #### Name: [Jabir] (https://github.com/Jabir7699)
+ #### Name: [Jabir] 
 - Place: Kasaragod, Kerala
 - Bio : Web developer & CSE student 
-- Github: [Jabir7699] (https://github.commJabir7699) 
+- GitHub: [Jabir7699](https://github.com/Jabir7699) 
